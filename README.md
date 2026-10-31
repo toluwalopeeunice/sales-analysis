@@ -8,7 +8,7 @@ The analysis covers sales recorded between **January 2003 and May 2005**.
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](images/dashboard.png)
+![Sales Performance Dashboard](images/dashboard.PNG)
 
 ## Project Objectives
 
