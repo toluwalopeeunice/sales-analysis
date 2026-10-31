@@ -65,7 +65,7 @@ I interpreted the dashboard results and developed recommendations related to mar
 |---|---|
 | Overall revenue | Approximately **$10.0 million** |
 | Leading country | **United States**, approximately **$3.6 million** |
-| Other leading countries | **Spain** (~$1.2M) and **France** (~$1.1M) |
+| Other leading countries | **Spain** **$1.2M** and **France** **$1.1M** |
 | Leading product line | **Classic Cars**, approximately **$3.9 million** |
 | Second-leading product line | **Vintage Cars**, approximately **$1.9 million** |
 | Highest-revenue deal size | **Medium**, approximately **$6.1 million** |
