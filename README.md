@@ -4,6 +4,10 @@
 
 This project explores historical sales data to understand revenue performance across countries, product lines, deal sizes, and order statuses. Microsoft Excel was used to prepare the dataset, summarize performance with PivotTables, and build a dashboard for communicating key findings.
 
+## Dashboard Preview
+
+![Sales Dashboard](images/dashboard.PNG)
+
 
 ## Project Objectives
 
