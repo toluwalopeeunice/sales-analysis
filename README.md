@@ -37,9 +37,7 @@ The workbook contains an uncleaned dataset and a cleaned dataset.
 
 The workbook includes a separate cleaned dataset. The preparation includes date-derived fields for order day, order month, and order year, alongside the removal of some fields from the original dataset.
 
-**Data-quality note:** Missing values in the State field were filled using the most frequent State value across the entire dataset. This is a global mode-imputation approach because the dataset contains multiple countries, this may assign a state to records where that value is not geographically appropriate. The Territory field also contains 1,074 blank values in the cleaned dataset. These limitations should be considered when interpreting geographic results.
-
-The cleaned sheet also contains three empty `Unnamed` columns, which do not contribute to the analysis.
+**Data-quality note:** Missing values in the State field were filled using the most frequent State value across the entire dataset. This is a global mode-imputation approach because the dataset contains multiple countries, this may assign a state to records where that value is not geographically appropriate. 
 
 ## Key Findings
 
